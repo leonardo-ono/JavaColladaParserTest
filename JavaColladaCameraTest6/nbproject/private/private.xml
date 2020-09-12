@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/java/JavaColladaCameraTest6/src/collada/Geometry.java</file>
+            <file>file:/D:/java/JavaColladaCameraTest6/src/collada/Material.java</file>
+            <file>file:/D:/java/JavaColladaCameraTest6/src/collada/Camera.java</file>
+            <file>file:/D:/java/JavaColladaCameraTest6/src/collada/Triangle.java</file>
+            <file>file:/D:/java/JavaColladaCameraTest6/src/renderer3d/Renderer.java</file>
+            <file>file:/D:/java/JavaColladaCameraTest6/src/collada/ColladaLoader.java</file>
+            <file>file:/D:/java/JavaColladaCameraTest6/src/main/View.java</file>
+            <file>file:/D:/java/JavaColladaCameraTest6/src/collada/Morph.java</file>
+            <file>file:/D:/java/JavaColladaCameraTest6/src/collada/Libraries.java</file>
+            <file>file:/D:/java/JavaColladaCameraTest6/src/collada/Texture.java</file>
+            <file>file:/D:/java/JavaColladaCameraTest6/src/collada/Effect.java</file>
+            <file>file:/D:/java/JavaColladaCameraTest6/src/collada/NodeExtender.java</file>
+            <file>file:/D:/java/JavaColladaCameraTest6/src/collada/Node.java</file>
+            <file>file:/D:/java/JavaColladaCameraTest6/src/collada/Collada.java</file>
+            <file>file:/D:/java/JavaColladaCameraTest6/src/collada/VisualScene.java</file>
+            <file>file:/D:/java/JavaColladaCameraTest6/src/res/animation/flag_example.dae</file>
+            <file>file:/D:/java/JavaColladaCameraTest6/src/collada/Animation.java</file>
+            <file>file:/D:/java/JavaColladaCameraTest6/src/collada/Vertex.java</file>
+            <file>file:/D:/java/JavaColladaCameraTest6/src/renderer3d/RendererWireframe.java</file>
+        </group>
+    </open-files>
+</project-private>
